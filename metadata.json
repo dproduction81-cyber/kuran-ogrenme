@@ -1,0 +1,7 @@
+{
+  "name": "Kur'an Eğlencesi",
+  "description": "Yapay zeka yardımıyla çocukların Arap alfabesini ve kısa Kur'an ayetlerini öğrenmesi için etkileşimli ve eğlenceli bir yol.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
